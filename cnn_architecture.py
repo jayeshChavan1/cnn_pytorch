@@ -1,4 +1,4 @@
-class Net(Module):   
+class Net(Module):
     def __init__(self):
         super(Net, self).__init__()
 
